@@ -1,6 +1,6 @@
 # How to install copy paster
 
-Reminder: this copy paster solution is **not free**, though it has very low costs. You cannot avoid having to pay to use chatGPT-3 this way. 
+Reminder: this copy paster solution is **not free**, though it has very low costs. You cannot avoid having to pay using chatGPT-3 this way either way. 
 
 **Set up Open AI and get API**
 -> Make an account at Open AI
