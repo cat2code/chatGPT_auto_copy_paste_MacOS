@@ -3,6 +3,8 @@ Simple implementation of a tool retrieving an answer from Open AI's chatGPT and 
 
 Using: BetterTouchTool (free 45 day trial), Javascript, Open AI API with chatGPT-3 (automatic payment per use).
 
+BetterTouchTool: https://folivora.ai/
+
 Further work (as of now):
 * Implement possibility for conversation 
 * Implement some kind of loading indicator
