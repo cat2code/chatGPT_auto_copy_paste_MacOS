@@ -13,3 +13,5 @@ Further work (as of now):
 
 Original author: "extr"
 Source: https://news.ycombinator.com/item?id=34615673
+
+All credit goes to OpenAI for designing chatGPT
